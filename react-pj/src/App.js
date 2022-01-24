@@ -7,6 +7,8 @@ import Header from './components/Header';
 import RouterPage from './Router/RouterPage';
 import Footer from './components/Footer';
 
+import './App.scss';
+
 
 function App() {
   return (
